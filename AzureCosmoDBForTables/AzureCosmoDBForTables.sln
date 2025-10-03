@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmoDBForTables", "AzureCosmoDBForTables.csproj", "{AB63912B-3952-4EAD-BB8C-3C4149348170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB63912B-3952-4EAD-BB8C-3C4149348170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB63912B-3952-4EAD-BB8C-3C4149348170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB63912B-3952-4EAD-BB8C-3C4149348170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB63912B-3952-4EAD-BB8C-3C4149348170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC682E2A-6900-44C5-A6AD-21AC862AD739}
+	EndGlobalSection
+EndGlobal
